@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="crispy" />
+          <option value="dj-database-url" />
+          <option value="django-extensions" />
+          <option value="django-widget-tweaks" />
+          <option value="gunicorn" />
+          <option value="ipython" />
+          <option value="matplotlib" />
+          <option value="mysqlclient" />
+          <option value="numpy" />
+          <option value="pillow" />
+          <option value="python-decouple" />
+          <option value="ruff" />
+          <option value="django-debug-toolbar" />
+          <option value="pre-commit" />
+          <option value="psycopg-binary" />
+          <option value="sentry-sdk" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
